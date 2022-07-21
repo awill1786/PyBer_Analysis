@@ -6,10 +6,12 @@ The purpose of this analysis is to provide rideshare data visualizations for Pyb
  ## Results
  
  ![image](https://github.com/awill1786/PyBer_Analysis/blob/main/Resources/Pyber%20Summary%20DataFrame.jpeg?raw=true)
-This chart shows that amount of fares that was made during the time period between January and May. Urban cities received the most amount of money for that period of time, followed by Surburban areas and then Rural areas. This outcome is pretty normal considering the population density of Urban areas.
+
+The Dataframe that is illustrated shows us that the total number of rides from Urban areas is 13x greater than Rural areas and about 2.6x greater than the Suburban areas. Also the amount of drivers in Urban areas actually outnumbers the amount of rides that were taken for that time period. Urban areas also featured the cheaper rides, compared to the Suburban and Rural Areas.
 
 ![image](https://github.com/awill1786/PyBer_Analysis/blob/main/Resources/Total%20Fare%20by%20City%20Type%20Line%20Chart.jpeg?raw=true)
-The Dataframe that is illustrated shows us that the total number of rides from Urban areas is 13x greater than Rural areas and about 2.6x greater than the Suburban areas. Also the amount of drivers in Urban areas actually outnumbers the amount of rides that were taken for that time period. Urban areas also featured the cheaper rides, compared to the Suburban and Rural Areas.
+
+This chart shows that amount of fares that was made during the time period between January and May. Urban cities received the most amount of money for that period of time, followed by Surburban areas and then Rural areas. This outcome is pretty normal considering the population density of Urban areas.
 
 ## Summary
 
